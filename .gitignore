@@ -1,0 +1,11 @@
+# python gitignore file
+
+*.pyc
+__pycache__/
+.env
+.vscode/
+.idea/
+*.log
+*.csv
+*.json
+*.egg*
